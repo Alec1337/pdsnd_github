@@ -12,9 +12,9 @@ This is a Python projects which allows you to explore Bike Share Data from Chica
 
 ### Files used
 
--chicago.csv
--new_york_city.csv
--washington.csv
+- 'chicago.csv'
+- 'new_york_city.csv'
+- 'washington.csv'
 
 ### Credits
 
